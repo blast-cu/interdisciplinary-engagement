@@ -1,0 +1,7 @@
+python3 data_utils/db_creation/create_citation_table.py
+python3 data_utils/db_creation/create_fos_col.py
+python3 data_utils/db_creation/improve_fos_hand_tagged_journals.py 
+python3 data_utils/db_creation/improve_fos_venue_match.py
+python3 data_utils/db_creation/improve_fos_string_match.py
+python3 data_utils/db_creation/create_ss_col.py
+python3 data_utils/db_creation/create_section_col.py

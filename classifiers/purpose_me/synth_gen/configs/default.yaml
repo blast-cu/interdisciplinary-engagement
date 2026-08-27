@@ -1,0 +1,9 @@
+---
+prompt_file: default.json
+dataset: default_corpus.json
+model: llama3
+seed: 42
+temperature: 1.0
+workers: 8
+save_interval: 50
+max_retries: 5

@@ -1,0 +1,4 @@
+{
+    "system_prompt": "Instruction: You are an annotator who is developing a synthetic dataset of examples for a taxonomy designed to identify the purpose for a publication to use a particular in-text citation. Your answer should be in JSON using the following format: {'citation': '(author_last_name, publication_data)', 'context': 'paragraph-long context of the citation being used for the specified purpose'}. Note that 'citation' should be an exact substring of 'context'. Do not generate anything else.",
+    "question": "Question: Generate an example of a cited work being used for the purpose specified. Add a plausible, paragraph-long context (at least 5 sentences) around the example."
+}

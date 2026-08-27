@@ -1,0 +1,694 @@
+id,interdisciplinary,count,percent interdisciplinary,title
+5680,0,21,0.0,TweeTime : A Minimally Supervised Method for Recognizing and Normalizing Time Expressions in Twitter
+13321,0,19,0.0,Recursive Neural Structural Correspondence Network for Cross-domain Aspect and Opinion Co-Extraction
+5717,0,24,0.0,Enhanced Personalized Search using Social Data
+2241,0,20,0.0,Show Me Your Evidence - an Automatic Method for Context Dependent Evidence Detection
+1704,0,11,0.0,SOUL: Towards Sentiment and Opinion Understanding of Language
+9507,0,25,0.0,From the Detection of Toxic Spans in Online Discussions to the Analysis of Toxic-to-Civil Transfer
+314,0,10,0.0,Summarizing Online Forum Discussions – Can Dialog Acts of Individual Messages Help?
+8741,0,17,0.0,Improving Factual Consistency Between a Response and Persona Facts
+216,0,12,0.0,Fine-Grained Contextual Predictions for Hard Sentiment Words
+8760,0,13,0.0,"If you've got it, flaunt it: Making the most of fine-grained sentiment annotations"
+8778,0,13,0.0,Is the Understanding of Explicit Discourse Relations Required in Machine Reading Comprehension?
+9116,0,15,0.0,New Word Detection for Sentiment Analysis
+81,0,4,0.0,Gov2Vec: Learning Distributed Representations of Institutions and Their Legal Text
+7818,0,12,0.0,Activity Modeling in Email
+6465,0,1,0.0,Unsupervised Code-Switching for Multilingual Historical Document Transcription
+320,0,21,0.0,Prompting for Multimodal Hateful Meme Classification
+11767,0,5,0.0,Catchphrase: Automatic Detection of Cultural References
+11218,0,25,0.0,"Rumor Detection by Exploiting User Credibility Information, Attention and Multi-task Learning"
+6771,0,19,0.0,Simple Attention-Based Representation Learning for Ranking Short Social Media Posts
+10838,0,15,0.0,Sentence-level Emotion Classification with Label and Context Dependence
+534,0,18,0.0,Face-Sensitive Image-to-Emotional-Text Cross-modal Translation for Multimodal Aspect-based Sentiment Analysis
+2118,0,23,0.0,Stance Detection on Social Media with Background Knowledge
+10219,0,21,0.0,SQuARe: A Large-Scale Dataset of Sensitive Questions and Acceptable Responses Created through Human-Machine Collaboration
+2550,0,11,0.0,Recurrent Attention Network on Memory for Aspect Sentiment Analysis
+6066,0,20,0.0,Aspect Is Not You Need: No-aspect Differential Sentiment Framework for Aspect-based Sentiment Analysis
+7552,0,14,0.0,Early Text Classification Using Multi-Resolution Concept Representations
+2348,0,4,0.0,Foreebank: Syntactic Analysis of Customer Support Forums
+7784,0,5,0.0,Cross-genre Event Extraction with Knowledge Enrichment
+527,1,38,0.02631578947368421,COM-MRC: A COntext-Masked Machine Reading Comprehension Framework for Aspect Sentiment Triplet Extraction
+1153,1,32,0.03125,Cultural Concept Adaptation on Multimodal Reasoning
+10356,1,26,0.038461538461538464,Span-level Aspect-based Sentiment Analysis via Table Filling
+3121,2,51,0.0392156862745098,Weakly Supervised Multilingual Causality Extraction from Wikipedia
+9703,1,25,0.04,TwittIrish: A Universal Dependencies Treebank of Tweets in Modern Irish
+8763,2,49,0.04081632653061224,Enhancing Aspect-level Sentiment Analysis with Word Dependencies
+5334,1,23,0.043478260869565216,Interpretation of Natural Language Rules in Conversational Machine Reading
+1651,1,22,0.045454545454545456,SCITAB: A Challenging Benchmark for Compositional Reasoning and Claim Verification on Scientific Tables
+13,1,21,0.047619047619047616,Utilizing Weak Supervision to Create S3D: A Sarcasm Annotated Dataset
+6680,1,21,0.047619047619047616,Detecting Cybersecurity Events from Noisy Short Text
+12326,1,21,0.047619047619047616,Hate Speech Detection Based on Sentiment Knowledge Sharing
+5218,1,20,0.05,A Dataset for Telling the Stories of Social Media Videos
+7941,1,20,0.05,Query Rewriting for Effective Misinformation Discovery
+3407,1,19,0.05263157894736842,Coverage of Information Extraction from Sentences and Paragraphs
+4784,2,37,0.05405405405405406,CHARM: Inferring Personal Attributes from Conversations
+13441,1,18,0.05555555555555555,AraSenTi: Large-Scale Twitter-Specific Arabic Sentiment Lexicons
+8771,2,35,0.05714285714285714,Hierarchical Multi-head Attentive Network for Evidence-aware Fake News Detection
+10098,2,35,0.05714285714285714,MvP: Multi-view Prompting Improves Aspect Sentiment Tuple Prediction
+3168,1,17,0.058823529411764705,Investigating Dynamic Routing in Tree-Structured LSTM for Sentiment Analysis
+13330,1,17,0.058823529411764705,A Spatial Model for Extracting and Visualizing Latent Discourse Structure in Text
+1377,1,17,0.058823529411764705,"DeSIQ: Towards an Unbiased, Challenging Benchmark for Social Intelligence Understanding"
+4551,1,17,0.058823529411764705,HENIN: Learning Heterogeneous Neural Interaction Networks for Explainable Cyberbullying Detection on Social Media
+1072,2,33,0.06060606060606061,Semantic Simplification for Sentiment Classification
+647,1,16,0.0625,Sentiment-Aware Word and Sentence Level Pre-training for Sentiment Analysis
+3499,1,15,0.06666666666666667,STANCY: Stance Classification Based on Consistency Cues
+2120,1,15,0.06666666666666667,NormDial: A Comparable Bilingual Synthetic Dialog Dataset for Modeling Social Norm Adherence and Violation
+8386,2,30,0.06666666666666667,Prompt Tuning with Contradictory Intentions for Sarcasm Recognition
+86,1,15,0.06666666666666667,Identifying News from Tweets
+8020,1,15,0.06666666666666667,Unsupervised Aspect-Level Sentiment Controllable Style Transfer
+5224,1,15,0.06666666666666667,PubSE: A Hierarchical Model for Publication Extraction from Academic Homepages
+7886,2,28,0.07142857142857142,KESA: A Knowledge Enhanced Approach To Sentiment Analysis
+4487,1,14,0.07142857142857142,Tired of Topic Models? Clusters of Pretrained Word Embeddings Make for Fast and Good Topics too!
+544,4,54,0.07407407407407407,Generating Literal and Implied Subquestions to Fact-check Complex Claims
+3870,2,27,0.07407407407407407,CHoRaL: Collecting Humor Reaction Labels from Millions of Social Media Users
+10411,3,40,0.075,Multilingual Event Extraction from Historical Newspaper Adverts
+3405,1,13,0.07692307692307693,Minimally Supervised Learning of Affective Events Using Discourse Relations
+257,1,13,0.07692307692307693,Clustering Aspect-related Phrases by Leveraging Sentiment Distribution Consistency
+8774,1,13,0.07692307692307693,BERTective: Language Models and Contextual Information for Deception Detection
+10084,4,51,0.0784313725490196,Knowledge-enhanced Mixed-initiative Dialogue System for Emotional Support Conversations
+3387,2,25,0.08,A Knowledge Regularized Hierarchical Approach for Emotion Cause Analysis
+696,4,48,0.08333333333333333,Borrowing Human Senses: Comment-Aware Self-Training for Social Media Multimodal Classification
+6969,1,12,0.08333333333333333,Identifying inherent disagreement in natural language inference
+510,2,24,0.08333333333333333,Improving Multi-turn Emotional Support Dialogue Generation with Lookahead Strategy Planning
+10100,1,12,0.08333333333333333,Explanation-based Finetuning Makes Models More Robust to Spurious Cues
+648,2,24,0.08333333333333333,Towards Multi-Modal Sarcasm Detection via Hierarchical Congruity Modeling with Knowledge Enhancement
+7912,2,23,0.08695652173913043,Whodunit? Learning to Contrast for Authorship Attribution
+7537,2,23,0.08695652173913043,Inducing a Lexicon of Abusive Words – a Feature-Based Approach
+727,4,45,0.08888888888888889,AX-MABSA: A Framework for Extremely Weakly Supervised Multi-label Aspect Based Sentiment Analysis
+214,2,22,0.09090909090909091,A Sentiment-aligned Topic Model for Product Aspect Rating Prediction
+8611,3,33,0.09090909090909091,Social Commonsense for Explanation and Cultural Bias Discovery
+7979,2,22,0.09090909090909091,Towards LLM-based Fact Verification on News Claims with a Hierarchical Step-by-Step Prompting Method
+1553,3,33,0.09090909090909091,SentiStream: A Co-Training Framework for Adaptive Online Sentiment Analysis in Evolving Data Streams
+7850,5,54,0.09259259259259259,CrowdChecked: Detecting Previously Fact-Checked Claims in Social Media
+11347,3,32,0.09375,Multi-task Pairwise Neural Ranking for Hashtag Segmentation
+1418,3,32,0.09375,"Lost in Translation, Found in Spans: Identifying Claims in Multilingual Social Media"
+2255,2,21,0.09523809523809523,Named Entity Recognition for Chinese Social Media with Jointly Trained Embeddings
+718,3,31,0.0967741935483871,NewsClaims: A New Benchmark for Claim Detection from News with Attribute Knowledge
+7488,1,10,0.1,"Mining Possessions: Existence, Type and Temporal Anchors"
+9380,3,30,0.1,Multi-Modal Sarcasm Detection via Cross-Modal Graph Convolutional Network
+3376,2,20,0.1,Emotion Detection with Neural Personal Discrimination
+10709,6,58,0.10344827586206896,Human-in-the-loop Evaluation for Early Misinformation Detection: A Case Study of COVID-19 Treatments
+27,2,19,0.10526315789473684,Mining Social Science Publications for Survey Variables
+6576,2,19,0.10526315789473684,Multi-task Learning for Multi-modal Emotion Recognition and Sentiment Analysis
+840,4,38,0.10526315789473684,Empowering the Fact-checkers! Automatic Identification of Claim Spans on Twitter
+10464,2,19,0.10526315789473684,ClarifyDelphi: Reinforced Clarification Questions with Defeasibility Rewards for Social and Moral Situations
+9,2,19,0.10526315789473684,Detecting Dissonant Stance in Social Media: The Role of Topic Exposure
+4051,2,19,0.10526315789473684,NewsCLIPpings: Automatic Generation of Out-of-Context Multimodal Media
+10652,3,28,0.10714285714285714,MultiEMO: An Attention-Based Correlation-Aware Multimodal Fusion Framework for Emotion Recognition in Conversations
+673,3,28,0.10714285714285714,Pair-Based Joint Encoding with Relational Graph Convolutional Networks for Emotion-Cause Pair Extraction
+6013,4,37,0.10810810810810811,Explaining Toxic Text via Knowledge Enhanced Text Generation
+17,3,27,0.1111111111111111,To Prefer or to Choose? Generating Agency and Power Counterfactuals Jointly for Gender Bias Mitigation
+11775,4,36,0.1111111111111111,InfoSurgeon: Cross-Media Fine-grained Information Consistency Checking for Fake News Detection
+2668,2,18,0.1111111111111111,Detecting Perspectives in Political Debates
+1547,1,9,0.1111111111111111,Spoiler Detection as Semantic Text Matching
+12437,1,9,0.1111111111111111,"Code-Switching Patterns Can Be an Effective Route to Improve Performance of Downstream NLP Applications: A Case Study of Humour, Sarcasm and Hate Speech Detection"
+11785,3,27,0.1111111111111111,Engage the Public: Poll Question Generation for Social Media Posts
+7702,1,9,0.1111111111111111,An Unsupervised Model of Orthographic Variation for Historical Document Transcription
+8759,3,26,0.11538461538461539,Ellipsis Resolution as Question Answering: An Evaluation
+1145,10,85,0.11764705882352941,People Make Better Edits: Measuring the Efficacy of LLM-Generated Counterfactually Augmented Data for Harmful Language Detection
+10523,2,17,0.11764705882352941,WikiBio: a Semantic Resource for the Intersectional Analysis of Biographical Events
+3829,7,59,0.11864406779661017,Improving Federated Learning for Aspect-based Sentiment Analysis via Topic Memories
+10141,3,25,0.12,Tackling Modality Heterogeneity with Multi-View Calibration Network for Multimodal Sentiment Detection
+8436,4,33,0.12121212121212122,Leveraging Task Dependency and Contrastive Learning for Case Outcome Classification on European Court of Human Rights Cases
+9466,4,33,0.12121212121212122,ProtoTEx: Explaining Model Decisions with Prototype Tensors
+1111,4,33,0.12121212121212122,COLD: A Benchmark for Chinese Offensive Language Detection
+815,5,41,0.12195121951219512,Unifying Data Perspectivism and Personalization: An Application to Social Norms
+10469,3,24,0.125,Multi-source Semantic Graph-based Multimodal Sarcasm Explanation Generation
+8750,3,24,0.125,Attention-based Relational Graph Convolutional Network for Target-Oriented Opinion Words Extraction
+1618,3,24,0.125,Sentiment Analysis on Streaming User Reviews via Dual-Channel Dynamic Graph Neural Network
+11352,3,24,0.125,Encoding Social Information with Graph Convolutional Networks forPolitical Perspective Detection in News Media
+385,4,31,0.12903225806451613,Curriculum Knowledge Distillation for Emoji-supervised Cross-lingual Sentiment Analysis
+7512,3,23,0.13043478260869565,Automatic Stance Detection Using End-to-End Memory Networks
+9225,3,23,0.13043478260869565,Doctor Recommendation in Online Health Forums via Expertise Learning
+8756,6,46,0.13043478260869565,Variational Weakly Supervised Sentiment Analysis with Posterior Regularization
+2156,4,30,0.13333333333333333,Euphemistic Abuse – A New Dataset and Classification Experiments for Implicitly Abusive Language
+10305,4,30,0.13333333333333333,MAD-TSC: A Multilingual Aligned News Dataset for Target-dependent Sentiment Classification
+2554,2,15,0.13333333333333333,Identifying Humor in Reviews using Background Text Sources
+10582,7,52,0.1346153846153846,Topic-Guided Sampling For Data-Efficient Multi-Domain Stance Detection
+2034,6,44,0.13636363636363635,Fighting Fire with Fire: The Dual Role of LLMs in Crafting and Detecting Elusive Disinformation
+8337,3,22,0.13636363636363635,Generation-Based Data Augmentation for Offensive Language Detection: Is It Worth It?
+8773,3,22,0.13636363636363635,Semantic Oppositeness Assisted Deep Contextual Modeling for Automatic Rumor Detection in Social Networks
+8767,4,29,0.13793103448275862,Automatic Data Acquisition for Event Coreference Resolution
+7990,4,29,0.13793103448275862,Rumor Detection on Twitter Using Multiloss Hierarchical BiLSTM with an Attenuation Factor
+8739,7,50,0.14,Adversarial Stylometry in the Wild: Transferable Lexical Substitution Attacks on Author Profiling
+1587,2,14,0.14285714285714285,When the Majority is Wrong: Modeling Annotator Disagreement for Subjective Tasks
+31,1,7,0.14285714285714285,Language-independent Gender Prediction on Twitter
+6978,2,14,0.14285714285714285,Framing Unpacked: A Semi-Supervised Interpretable Multi-View Model of Media Frames
+13326,4,28,0.14285714285714285,Multimodal Affective Analysis Using Hierarchical Attention Strategy with Word-Level Alignment
+10404,4,28,0.14285714285714285,"Just Like a Human Would, Direct Access to Sarcasm Augmented with Potential Result and Reaction"
+73,1,7,0.14285714285714285,Are You a Racist or Am I Seeing Things? Annotator Influence on Hate Speech Detection on Twitter
+9925,3,21,0.14285714285714285,Joint Constrained Learning with Boundary-adjusting for Emotion-Cause Pair Extraction
+614,5,35,0.14285714285714285,Ethics consideration sections in natural language processing papers
+8738,5,34,0.14705882352941177,SpanEmo: Casting Multi-label Emotion Classification as Span-prediction
+10417,4,27,0.14814814814814814,FACTIFY-5WQA: 5W Aspect-based Fact Verification through Question Answering
+8340,3,20,0.15,Multilingual Content Moderation: A Case Study on Reddit
+6888,3,20,0.15,Learning Hierarchical Discourse-level Structure for Fake News Detection
+3,3,20,0.15,OLALA: Object-Level Active Learning for Efficient Document Layout Annotation
+4295,3,20,0.15,“Was it “stated” or was it “claimed”?: How linguistic bias affects generative language models
+730,5,33,0.15151515151515152,Bernice: A Multilingual Pre-trained Encoder for Twitter
+772,5,33,0.15151515151515152,Topical Segmentation of Spoken Narratives: A Test Case on Holocaust Survivor Testimonies
+698,6,39,0.15384615384615385,Data-Efficient Strategies for Expanding Hate Speech Detection into Under-Resourced Languages
+11773,2,13,0.15384615384615385,X-FACT: A New Benchmark Dataset for Multilingual Fact Checking
+1855,4,26,0.15384615384615385,TATA: Stance Detection via Topic-Agnostic and Topic-Aware Embeddings
+5168,2,13,0.15384615384615385,Joint Learning for Emotion Classification and Emotion Cause Detection
+6235,4,26,0.15384615384615385,Early Rumor Detection Using Neural Hawkes Process with a New Benchmark Dataset
+6041,2,13,0.15384615384615385,DISAPERE: A Dataset for Discourse Structure in Peer Review Discussions
+12734,2,13,0.15384615384615385,Identifying Principals and Accessories in a Complex Case based on the Comprehension of Fact Description
+13439,2,13,0.15384615384615385,Detecting Common Discussion Topics Across Culture From News Reader Comments
+11362,3,19,0.15789473684210525,Cross-Modal Commentator: Automatic Machine Commenting Based on Cross-Modal Information
+8747,6,38,0.15789473684210525,"""Laughing at you or with you"": The Role of Sarcasm in Shaping the Disagreement Space"
+2201,3,19,0.15789473684210525,Semantic Annotation for Microblog Topics Using Wikipedia Temporal Information
+3309,7,44,0.1590909090909091,Modeling Conversation Structure and Temporal Dynamics for Jointly Predicting Rumor Stance and Veracity
+7931,4,25,0.16,Reimagining Complaint Analysis: Adopting Seq2Path for a Generative Text-to-Text Framework
+1149,8,50,0.16,The Skipped Beat: A Study of Sociopragmatic Understanding in LLMs for 64 Languages
+7804,4,25,0.16,Part-of-Speech Tagging for Historical English
+1771,5,31,0.16129032258064516,A Video Is Worth 4096 Tokens: Verbalize Videos To Understand Them In Zero Shot
+7977,7,43,0.16279069767441862,Generation of Korean Offensive Language by Leveraging Large Language Models via Prompt Design
+8,7,43,0.16279069767441862,Can Contextualizing User Embeddings Improve Sarcasm and Hate Speech Detection?
+849,9,55,0.16363636363636364,UniMSE: Towards Unified Multimodal Sentiment Analysis and Emotion Recognition
+10654,3,18,0.16666666666666666,Personality Understanding of Fictional Characters during Book Reading
+1591,5,30,0.16666666666666666,Comparing Styles across Languages
+8758,2,12,0.16666666666666666,Cross-Topic Rumor Detection using Topic-Mixtures
+8525,6,36,0.16666666666666666,Why Don’t You Do It Right? Analysing Annotators’ Disagreement in Subjective Tasks
+278,2,12,0.16666666666666666,Joint Emotion Analysis via Multi-task Gaussian Processes
+10604,3,18,0.16666666666666666,EPIC: Multi-Perspective Annotation of a Corpus of Irony
+5171,1,6,0.16666666666666666,Hybrid Neural Attention for Agreement/Disagreement Inference in Online Debates
+10029,5,30,0.16666666666666666,"Multilingual Multifaceted Understanding of Online News in Terms of Genre, Framing, and Persuasion Techniques"
+2207,1,6,0.16666666666666666,Cross Lingual Sentiment Analysis using Modified BRAE
+11783,4,24,0.16666666666666666,Claim Matching Beyond English to Scale Global Fact-Checking
+6522,1,6,0.16666666666666666,Identification and Characterization of Newsworthy Verbs in World News
+7943,4,24,0.16666666666666666,DisCGen: A Framework for Discourse-Informed Counterspeech Generation
+10332,4,24,0.16666666666666666,BLIND: Bias Removal With No Demographics
+4291,6,35,0.17142857142857143,Rumor Detection on Twitter with Claim-Guided Hierarchical Graph Attention Networks
+8768,10,58,0.1724137931034483,The feasibility of convalescent plasma therapy in severe COVID- 19 patients: a pilot study
+2179,4,23,0.17391304347826086,GenEx: A Commonsense-aware Unified Generative Framework for Explainable Cyberbullying Detection
+1933,4,23,0.17391304347826086,Identification of Multimodal Stance Towards Frames of Communication
+8781,4,23,0.17391304347826086,Belief-based Generation of Argumentative Claims
+7859,8,46,0.17391304347826086,Seamlessly Integrating Factual Information and Social Content with Persuasive Dialogue
+1846,3,17,0.17647058823529413,Argument-based Detection and Classification of Fallacies in Political Debates
+8596,6,34,0.17647058823529413,What Did You Learn To Hate? A Topic-Oriented Analysis of Generalization in Hate Speech Detection
+821,3,17,0.17647058823529413,GREENER: Graph Neural Networks for News Media Profiling
+11379,3,17,0.17647058823529413,Analyzing Linguistic Differences between Owner and Staff Attributed Tweets
+1154,10,56,0.17857142857142858,Identifying Informational Sources in News Articles
+12673,7,39,0.1794871794871795,That is a Known Lie: Detecting Previously Fact-Checked Claims
+9223,7,39,0.1794871794871795,Zoom Out and Observe: News Environment Perception for Fake News Detection
+1978,6,33,0.18181818181818182,PALS: Personalized Active Learning for Subjective Tasks in NLP
+3295,4,22,0.18181818181818182,Neural Conversation Recommendation with Online Interaction Modeling
+1977,4,22,0.18181818181818182,"To Build Our Future, We Must Know Our Past: Contextualizing Paradigm Shifts in Natural Language Processing"
+71,4,22,0.18181818181818182,Identifying Stance by Analyzing Political Discourse on Twitter
+4,4,22,0.18181818181818182,Towards Few-Shot Identification of Morality Frames using In-Context Learning
+8743,4,22,0.18181818181818182,Stereotype and Skew: Quantifying Gender Bias in Pre-trained and Fine-tuned Language Models
+5352,2,11,0.18181818181818182,Possessors Change Over Time: A Case Study with Artworks
+10977,4,22,0.18181818181818182,Detect Rumors in Microblog Posts Using Propagation Structure via Kernel Learning
+1168,7,38,0.18421052631578946,Towards Interpretable Mental Health Analysis with Large Language Models
+3277,5,27,0.18518518518518517,Contrastive Language Adaptation for Cross-Lingual Stance Detection
+1144,5,27,0.18518518518518517,PHD: Pixel-Based Language Modeling of Historical Documents
+315,3,16,0.1875,An Empirical Analysis of Memorization in Fine-tuned Autoregressive Language Models
+5483,3,16,0.1875,Contextual Inter-modal Attention for Multi-modal Sentiment Analysis
+5376,3,16,0.1875,Transferring from Formal Newswire Domain with Hypernet for Twitter POS Tagging
+712,11,58,0.1896551724137931,Missing Counter-Evidence Renders NLP Fact-Checking Unrealistic for Misinformation
+11355,4,21,0.19047619047619047,Dataset Creation for Ranking Constructive News Comments
+470,4,21,0.19047619047619047,SafeText: A Benchmark for Exploring Physical Safety in Language Models
+6968,5,26,0.19230769230769232,Modeling Human Mental States with an Entity-based Narrative Graph
+6290,5,26,0.19230769230769232,DUCK: Rumour Detection on Social Media by Modelling User and Comment Propagation Networks
+7477,7,36,0.19444444444444445,Microblog Conversation Recommendation via Joint Modeling of Topics and Discourse
+6762,4,20,0.2,An annotated dataset of literary entities
+1164,6,30,0.2,Decoding the Silent Majority: Inducing Belief Augmented Social Graph with Large Language Model for Response Forecasting
+1147,6,30,0.2,NORMSAGE: Multi-Lingual Multi-Cultural Norm Discovery from Conversations On-the-Fly
+7382,6,30,0.2,A Deep Metric Learning Approach to Account Linking
+49,3,15,0.2,Mapping Local News Coverage: Precise location extraction in textual news content using fine-tuned BERT based language model
+299,2,10,0.2,Gender and Power: How Gender and Gender Environment Affect Manifestations of Power
+6679,7,35,0.2,Multi-Channel Convolutional Neural Network for Twitter Emotion and Sentiment Recognition
+504,4,20,0.2,Mitigating Inconsistencies in Multimodal Sentiment Analysis under Uncertain Missing Modalities
+4952,7,35,0.2,PowerTransformer: Unsupervised Controllable Revision for Biased Language Correction
+11151,3,15,0.2,Adversarial Attention Modeling for Multi-dimensional Emotion Regression
+2171,1,5,0.2,Multilingual Previously Fact-Checked Claim Retrieval
+8753,6,30,0.2,Learning From Revisions: Quality Assessment of Claims in Argumentation at Scale
+318,5,25,0.2,SAFETEXT: A Benchmark for Exploring Physical Safety in Language Models Warning: This paper contains examples of potentially dangerous and harmful text
+10725,6,30,0.2,"Facilitating Fine-grained Detection of Chinese Toxic Language: Hierarchical Taxonomy, Resources, and Benchmarks"
+8737,16,78,0.20512820512820512,NewsMTSC: A Dataset for (Multi-)Target-dependent Sentiment Classification in Political News Articles
+9221,7,34,0.20588235294117646,Improving Neural Political Statement Classification with Class Hierarchical Information
+1159,6,29,0.20689655172413793,Rumor Detection on Social Media with Crowd Intelligence and ChatGPT-Assisted Networks
+7838,5,24,0.20833333333333334,Missing Modality meets Meta Sampling (M3S): An Efficient Universal Approach for Multimodal Sentiment Analysis with Missing Modality
+12974,5,24,0.20833333333333334,Out of the Echo Chamber: Detecting Countering Debate Speeches
+9617,5,24,0.20833333333333334,Improving Generalizability in Implicitly Abusive Language Detection with Concept Activation Vectors
+1710,5,24,0.20833333333333334,Event-Location Tracking in Narratives: A Case Study on Holocaust Testimonies
+5245,4,19,0.21052631578947367,Harnessing Popularity in Social Media for Extractive Summarization of Online Conversations
+3374,4,19,0.21052631578947367,Learning Explicit and Implicit Structures for Targeted Sentiment Analysis
+13162,8,38,0.21052631578947367,"Event2Mind: Commonsense Inference on Events, Intents, and Reactions"
+1868,7,33,0.21212121212121213,Beyond Detection: A Defend-and-Summarize Strategy for Robust and Interpretable Rumor Analysis on Social Media
+10096,3,14,0.21428571428571427,Modeling Appropriate Language in Argumentation
+11377,9,42,0.21428571428571427,Categorizing and Inferring the Relationship between the Text and Image of Twitter Posts
+10543,8,37,0.21621621621621623,Improving the Detection of Multilingual Online Attacks with Rich Social Media Data from Singapore
+1169,8,36,0.2222222222222222,CoSyn: Detecting Implicit Hate Speech in Online Conversations Using a Context Synergized Hyperbolic Network
+6535,4,18,0.2222222222222222,Do We Really Need Lexical Information? Towards a Top-down Approach to Sentiment Analysis of Product Reviews
+10708,6,27,0.2222222222222222,To Revise or Not to Revise: Learning to Detect Improvable Claims for Argumentative Writing Support
+10412,8,36,0.2222222222222222,BIC: Twitter Bot Detection with Text-Graph Interaction and Semantic Consistency
+991,10,45,0.2222222222222222,Generative Entity-to-Entity Stance Detection with Knowledge Graph Augmentation
+2458,4,18,0.2222222222222222,On the Role of Discourse Markers for Discriminating Claims and Premises in Argumentative Discourse
+5066,6,27,0.2222222222222222,Exploring the Role of Argument Structure in Online Debate Persuasion
+12735,6,27,0.2222222222222222,Joint Modelling of Emotion and Abusive Language Detection
+4119,9,40,0.225,Point-of-Interest Type Prediction using Text and Images
+11780,7,31,0.22580645161290322,SocAoG: Incremental Graph Parsing for Social Relation Inference in Dialogues
+3777,7,31,0.22580645161290322,STANKER: Stacking Network based on Level-grained Attention-masked BERT for Rumor Detection on Social Media
+21,7,31,0.22580645161290322,Experiencer-Specific Emotion and Appraisal Prediction
+3279,5,22,0.22727272727272727,Social IQa: Commonsense Reasoning about Social Interactions
+3302,5,22,0.22727272727272727,You Shall Know a User by the Company It Keeps: Dynamic Representations for Social Media Users in NLP
+1151,8,35,0.22857142857142856,VIBE: Topic-Driven Temporal Adaptation for Twitter Classification
+61,3,13,0.23076923076923078,Diachronic Embeddings for People in the News
+825,12,52,0.23076923076923078,SEMGraph: Incorporating Sentiment Knowledge and Eye Movement into Graph Model for Sentiment Analysis
+7,6,26,0.23076923076923078,Measuring Harmful Representations in Scandinavian Language Models
+11769,6,26,0.23076923076923078,Measure and Evaluation of Semantic Divergence across Two Languages
+8776,6,26,0.23076923076923078,Implicitly Abusive Comparisons -A New Dataset and Linguistic Analysis
+88,6,26,0.23076923076923078,Obfuscating Gender in Social Media Writing
+3483,3,13,0.23076923076923078,Learning to Flip the Sentiment of Reviews from Non-Parallel Corpora
+7889,10,43,0.23255813953488372,A Prompt Array Keeps the Bias Away: Debiasing Vision-Language Models with Adversarial Learning
+1162,7,30,0.23333333333333334,"A Diachronic Analysis of Paradigm Shifts in NLP Research: When, How, and Why?"
+5916,8,34,0.23529411764705882,HATEMOJI: A Test Suite and Adversarially-Generated Dataset for Benchmarking and Detecting Emoji-Based Hate
+78,4,17,0.23529411764705882,Demographer: Extremely Simple Name Demographics
+8121,4,17,0.23529411764705882,Predicting and Characterising User Impact on Twitter
+7965,5,21,0.23809523809523808,Target-Aware Contextual Political Bias Detection in News
+2746,5,21,0.23809523809523808,A Factored Neural Network Model for Characterizing Online Discussions in Vector Space
+2188,6,25,0.24,Detecting Propaganda Techniques in Code-Switched Social Media Text
+944,6,25,0.24,Calibrating Student Models for Emotion-related Tasks
+1148,12,50,0.24,A Fine-Grained Taxonomy of Replies to Hate Speech
+4642,8,33,0.24242424242424243,Multi-modal Multi-label Emotion Detection with Modality and Label Dependence
+46,9,37,0.24324324324324326,Tweet Classification without the Tweet: An Empirical Examination of User versus Document Attributes
+11774,12,49,0.24489795918367346,Learning from the Worst: Dynamically Generated Datasets to Improve Online Hate Detection
+7351,4,16,0.25,Adversarial Learning for Zero-Shot Stance Detection on Social Media
+4552,2,8,0.25,Reactive Supervision: A New Method for Collecting Sarcasm Data
+10348,3,12,0.25,WinoQueer: A Community-in-the-Loop Benchmark for Anti-LGBTQ+ Bias in Large Language Models
+2559,1,4,0.25,Refining Word Embeddings for Sentiment Analysis
+7857,5,20,0.25,Prediction of People’s Emotional Response towards Multi-modal News
+1158,3,12,0.25,Analysing State-Backed Propaganda Websites: a New Dataset and Linguistic Study
+3477,4,16,0.25,Revealing and Predicting Online Persuasion Strategy with Elementary Units
+6684,5,20,0.25,Issue Framing in Online Discussion Fora
+4686,7,28,0.25,Are “Undocumented Workers” the Same as “Illegal Aliens”? Disentangling Denotation and Connotation in Vector Spaces
+2749,4,16,0.25,Distinguishing Japanese Non-standard Usages from Standard Ones
+2094,9,36,0.25,Task-Adaptive Tokenization: Enhancing Long-Form Text Generation Efficacy in Mental Health and Beyond
+2,17,67,0.2537313432835821,Examining Political Rhetoric with Epistemic Stance Detection
+1455,8,31,0.25806451612903225,Standardizing Distress Analysis: Emotion-Driven Distress Identification and Cause Extraction (DICE) in Multimodal Online Posts
+10079,8,31,0.25806451612903225,Guiding Computational Stance Detection with Expanded Stance Triangle Framework
+11145,8,31,0.25806451612903225,Detecting Concealed Information in Text and Speech
+8765,15,58,0.25862068965517243,RESPER : Computationally Modelling Resisting Strategies in Persuasive Conversations
+8769,6,23,0.2608695652173913,Content-based Models of Quotation
+2143,5,19,0.2631578947368421,Federated Meta-Learning for Emotion and Sentiment Aware Multi-modal Complaint Identification
+29,5,19,0.2631578947368421,Cross-Lingual Classification of Topics in Political Texts
+11066,5,19,0.2631578947368421,Sarcasm SIGN: Interpreting Sarcasm with Sentiment Based Monolingual Machine Translation
+13405,5,19,0.2631578947368421,Connotation Frames: A Data-Driven Investigation
+7055,10,38,0.2631578947368421,Implicitly Abusive Language – What does it actually look like and why are we not getting there?
+12819,9,34,0.2647058823529412,Discourse as a Function of Event: Profiling Discourse Structure in News Articles around the Main Event
+2133,9,34,0.2647058823529412,Predict and Use: Harnessing Predicted Gaze to Improve Multimodal Sarcasm Detection
+8770,13,49,0.2653061224489796,FakeFlow: Fake News Detection by Modeling the Flow of Affective Information
+11955,8,30,0.26666666666666666,Mitigating Bias in Session-based Cyberbullying Detection: A Non-Compromising Approach
+2045,8,30,0.26666666666666666,Exploring Jiu-Jitsu Argumentation for Writing Peer Review Rebuttals
+2488,4,15,0.26666666666666666,JEAM: A Novel Model for Cross-Domain Sentiment Classification Based on Emotion Analysis
+3487,4,15,0.26666666666666666,A deep-learning framework to detect sarcasm targets
+1766,8,30,0.26666666666666666,Bridging Background Knowledge Gaps in Translation with Automatic Explicitation
+6758,10,37,0.2702702702702703,Multi-Task Ordinal Regression for Jointly Predicting the Trustworthiness and the Leading Political Ideology of News Media
+7863,9,33,0.2727272727272727,Transferring Knowledge via Neighborhood-Aware Optimal Transport for Low-Resource Hate Speech Detection
+3307,6,22,0.2727272727272727,Detecting and Reducing Bias in a High Stakes Domain
+2752,3,11,0.2727272727272727,Topic Signatures in Political Campaign Speeches
+915,11,40,0.275,ArtELingo: A Million Emotion Annotations of WikiArt with Emphasis on Diversity over Language and Culture
+7895,8,29,0.27586206896551724,The lack of theory is painful: Modeling Harshness in Peer Review Comments
+6970,8,29,0.27586206896551724,Learning to Recognize Dialect Features
+24,5,18,0.2777777777777778,Code-Switching as a Social Act: The Case of Arabic Wikipedia Talk Pages
+8632,7,25,0.28,Multitask Learning for Mental Health Conditions with Limited Social Media Data
+5571,7,25,0.28,Characterizing Interactions and Relationships between People
+8742,9,32,0.28125,Adversarial Learning of Poisson Factorisation Model for Gauging Brand Sentiment in User Reviews
+75,6,21,0.2857142857142857,Bag of What? Simple Noun Phrase Extraction for Text Analysis
+2558,6,21,0.2857142857142857,Identifying and Tracking Sentiments and Topics from Social Media Texts during Natural Disasters
+72,2,7,0.2857142857142857,The Clinical Panel: Leveraging Psychological Expertise During NLP Research
+10498,8,28,0.2857142857142857,Transfer and Active Learning for Dissonance Detection: Addressing the Rare-Class Challenge
+1156,14,49,0.2857142857142857,Natural Language Decompositions of Implicit Content Enable Better Text Representations
+8461,6,21,0.2857142857142857,Self-Adapted Utterance Selection for Suicidal Ideation Detection in Lifeline Conversations
+1864,12,42,0.2857142857142857,Countering Misinformation via Emotional Response Generation
+1877,4,14,0.2857142857142857,VECHR: A Dataset for Explainable and Robust Classification of Vulnerability Type in the European Court of Human Rights
+3510,10,35,0.2857142857142857,How Does Counterfactually Augmented Data Impact Models for Social Computing Constructs?
+957,11,38,0.2894736842105263,Why Do You Feel This Way? Summarizing Triggers of Emotions in Social Media Posts
+8419,9,31,0.2903225806451613,Probing Power by Prompting: Harnessing Pre-trained Language Models for Power Connotation Framing
+10502,9,31,0.2903225806451613,UPPAM: A Unified Pre-training Architecture for Political Actor Modeling based on Language
+8751,7,24,0.2916666666666667,Metrical Tagging in the Wild: Building and Annotating Poetry Corpora with Rhythmic Features
+6709,7,24,0.2916666666666667,No Permanent Friends or Enemies: Tracking Relationships between Nations from News
+65,5,17,0.29411764705882354,I miss you babe: Analyzing Emotion Dynamics During COVID-19 Pandemic
+1909,6,20,0.3,StereoMap: Quantifying the Awareness of Human-like Stereotypes in Large Language Models
+13052,6,20,0.3,"Rˆ3: Reverse, Retrieve, and Rank for Sarcasm Generation with Commonsense Knowledge"
+8761,11,36,0.3055555555555556,EMPATHBERT: A BERT-based Framework for Demographic-aware Empathy Prediction
+5070,11,36,0.3055555555555556,EmoTag1200: Understanding the Association between Emojis and Emotions
+5505,8,26,0.3076923076923077,CARER: Contextualized Affect Representations for Emotion Recognition
+13185,8,26,0.3076923076923077,Mining Cross-Cultural Differences and Similarities in Social Media
+7361,13,42,0.30952380952380953,ENTRUST: Argument Reframing with Language Models and Entailment
+9226,5,16,0.3125,Leveraging Wikipedia article evolution for promotional tone detection
+2824,10,32,0.3125,Depression and Self-Harm Risk Assessment in Online Forums
+11784,6,19,0.3157894736842105,Automatic Fake News Detection: Are Models Learning to Reason?
+13184,13,41,0.3170731707317073,Modeling and Prediction of Online Product Review Helpfulness: A Survey
+6966,7,22,0.3181818181818182,Lifelong Learning of Hate Speech Classification on Social Media
+8067,7,22,0.3181818181818182,Point-of-Interest Type Inference from Social Media Text
+8600,7,22,0.3181818181818182,Improving the Generalizability of Collaborative Dialogue Analysis With Multi-Feature Embeddings
+9217,7,22,0.3181818181818182,A Checkpoint on Multilingual Misogyny Identification
+7961,9,28,0.32142857142857145,Analyzing and Predicting Persistence of News Tweets
+7898,10,31,0.3225806451612903,Detecting Incongruent News Articles Using Multi-head Attention Dual Summarization
+9222,11,34,0.3235294117647059,Suum Cuique: Studying Bias in Taboo Detection with a Community Perspective ⋆
+5915,12,37,0.32432432432432434,Mitigating Toxic Degeneration with Empathetic Data: Exploring the Relationship Between Toxicity and Empathy
+8017,13,40,0.325,Modality-Transferable Emotion Embeddings for Low-Resource Multimodal Emotion Recognition
+4129,3,9,0.3333333333333333,Dynamic Forecasting of Conversation Derailment
+1252,8,24,0.3333333333333333,Analyzing Norm Violations in Live-Stream Chat
+12,9,27,0.3333333333333333,A Robust Bias Mitigation Procedure Based on the Stereotype Content Model
+7976,11,33,0.3333333333333333,The Persuasive Memescape: Understanding Effectiveness and Societal Implications of Internet Memes
+992,7,21,0.3333333333333333,Symptom Identification for Interpretable Detection of Multiple Mental Disorders on Social Media
+7851,8,24,0.3333333333333333,Hate Speech and Offensive Language Detection in Bengali
+9218,5,15,0.3333333333333333,EnCBP: A New Benchmark Dataset for Finer-Grained Cultural Background Prediction in English
+11782,8,24,0.3333333333333333,Modeling Language Usage and Listener Engagement in Podcasts
+11781,10,30,0.3333333333333333,How Did This Get Funded?! Automatically Identifying Quirky Scientific Achievements
+10251,7,21,0.3333333333333333,Peeking inside the black box: A Commonsense-aware Generative Framework for Explainable Complaint Detection
+1860,28,84,0.3333333333333333,Do LLMs Understand Social Knowledge? Evaluating the Sociability of Large Language Models with SocKET Benchmark
+52,3,9,0.3333333333333333,Predicting independent living outcomes from written reports of social workers
+7333,5,15,0.3333333333333333,Adapting Coreference Resolution for Processing Violent Death Narratives
+10591,17,51,0.3333333333333333,What is the Real Intention behind this Question? Dataset Collection and Intention Classification
+2198,8,24,0.3333333333333333,Identifying Political Sentiment between Nation States with Social Media
+62,8,24,0.3333333333333333,Viable Threat on News Reading: Generating Biased News Using Natural Language Models
+6905,9,27,0.3333333333333333,Let’s Make Your Request More Persuasive: Modeling Persuasive Strategies via Semi-Supervised Neural Nets on Crowdfunding Platforms
+9694,7,21,0.3333333333333333,Reinforcement Guided Multi-Task Learning Framework for Low-Resource Stereotype Detection
+30,8,24,0.3333333333333333,Telling Apart Tweets Associated with Controversial versus Non-Controversial Topics
+864,14,42,0.3333333333333333,Human-Machine Collaboration Approaches to Build a Dialogue Dataset for Hate Speech Countering
+2003,45,134,0.3358208955223881,The Sentiment Problem: A Critical Survey towards Deconstructing Sentiment Analysis
+9711,36,107,0.3364485981308411,Challenges and Strategies in Cross-Cultural NLP
+9219,9,26,0.34615384615384615,Which side are you on? Insider-Outsider classification in conspiracy-theoretic social media
+319,16,46,0.34782608695652173,Modeling Information Change in Science Communication with Semantically Matched Paraphrases
+9959,8,23,0.34782608695652173,Facilitating Multi-turn Emotional Support Conversation with Positive Emotion Elicitation: A Reinforcement Learning Approach
+11778,7,20,0.35,Investigating label suggestions for opinion mining in German Covid-19 social media
+3306,7,20,0.35,A Benchmark Dataset for Learning to Intervene in Online Hate Speech
+28,7,20,0.35,Linguistic Markers of Influence in Informal Interactions
+8112,7,20,0.35,Using idiolects and sociolects to improve word prediction
+9918,13,37,0.35135135135135137,Subjective Crowd Disagreements for Subjective Data: Uncovering Meaningful CrowdOpinion with Population-level Learning
+1167,12,34,0.35294117647058826,"Speak, Memory: An Archaeology of Books Known to ChatGPT/GPT-4"
+1743,6,17,0.35294117647058826,Centering the Margins: Outlier-Based Identification of Harmed Populations in Toxicity Detection
+5403,6,17,0.35294117647058826,Reducing Gender Bias in Abusive Language Detection
+51,5,14,0.35714285714285715,Analyzing Political Bias and Unfairness in News Articles at Different Levels of Granularity
+9829,9,25,0.36,Grounding Characters and Places in Narrative Texts
+8341,9,25,0.36,How people talk about each other: Modeling Generalized Intergroup Bias and Emotion
+5917,13,36,0.3611111111111111,Hate Speech and Counter Speech Detection: Conversational Context Does Matter
+9823,8,22,0.36363636363636365,The Moral Debater: A Study on the Computational Generation of Morally Framed Arguments
+1166,16,44,0.36363636363636365,Vicarious Offense and Noise Audit of Offensive Speech Classifiers: Unifying Human and Machine Disagreement on What is Offensive
+1600,4,11,0.36363636363636365,EtiCor: Corpus for Analyzing LLMs for Etiquettes
+12459,12,33,0.36363636363636365,iSarcasm: A Dataset of Intended Sarcasm
+9353,12,33,0.36363636363636365,Tackling Fake News Detection by Continually Improving Social Context Representations using Graph Neural Networks
+11776,8,22,0.36363636363636365,Unified Dual-view Cognitive Model for Interpretable Claim Verification
+8339,19,52,0.36538461538461536,Creation and evaluation of timelines for longitudinal user posts
+6971,15,41,0.36585365853658536,Multitask Learning for Emotionally Analyzing Sexual Abuse Disclosures
+13064,11,30,0.36666666666666664,A Prioritization Model for Suicidality Risk Assessment
+5241,7,19,0.3684210526315789,Representing Social Media Users for Sarcasm Detection
+1146,14,38,0.3684210526315789,All Things Considered: Detecting Partisan Events from News Media with Cross-Article Comparison
+19,7,19,0.3684210526315789,Fine-Grained Extraction and Classification of Skill Requirements in German-Speaking Job Ads
+974,17,46,0.3695652173913043,Late Fusion with Triplet Margin Objective for Multimodal Ideology Prediction and Analysis
+11600,16,43,0.37209302325581395,Automatically Identifying Complaints in Social Media
+7713,3,8,0.375,Building Chinese Affective Resources in Valence-Arousal Dimensions
+9757,15,40,0.375,Should a Chatbot be Sarcastic? Understanding User Preferences Towards Sarcasm Generation
+2431,3,8,0.375,What Your Username Says About You
+45,3,8,0.375,Geolocating Political Events in Text
+3062,6,16,0.375,Uncover Sexual Harassment Patterns from Personal Stories by Joint Key Element Extraction and Categorization
+7571,6,16,0.375,Simple Models for Word Formation in Slang
+6723,3,8,0.375,Text Similarity Estimation Based on Word Embeddings and Matrix Norms for Targeted Marketing
+5249,6,16,0.375,The Remarkable Benefit of User-Level Aggregation for Lexical-based Population-Level Predictions
+868,6,16,0.375,“It’s Not Just Hate”: A Multi-Dimensional Perspective on Detecting Harmful Speech Online
+9686,6,16,0.375,Multilingual Detection of Personal Employment Status on Twitter
+10371,11,29,0.3793103448275862,Unsupervised Extractive Summarization of Emotion Triggers
+5798,11,29,0.3793103448275862,Analyzing Framing through the Casts of Characters in the News
+10593,11,29,0.3793103448275862,"Training Models to Generate, Recognize, and Reframe Unhelpful Thoughts"
+904,8,21,0.38095238095238093,Unsupervised Opinion Summarisation in the Wasserstein Space
+9828,8,21,0.38095238095238093,"My side, your side and the evidence: Discovering aligned actor groups and the narratives they weave"
+12744,16,42,0.38095238095238093,Analyzing Political Parody in Social Media
+1727,8,21,0.38095238095238093,Detection of Multiple Mental Disorders from Social Media with Two-Stream Psychiatric Experts
+6967,21,55,0.38181818181818183,Introducing CAD: the Contextual Abuse Dataset
+543,21,55,0.38181818181818183,Discovering Differences in the Representation of People using Contextualized Semantic Axes
+6318,13,34,0.38235294117647056,ConfliBERT: A Pre-trained Language Model for Political Conflict and Violence
+6975,13,34,0.38235294117647056,What About the Precedent: An Information-Theoretic Analysis of Common Law
+8090,5,13,0.38461538461538464,Modeling the Use of Graffiti Style Features to Signal Social Relations within a Multi-Domain Learning Paradigm
+63,5,13,0.38461538461538464,Unsupervised Anomaly Detection in Parole Hearings using Language Models
+243,5,13,0.38461538461538464,Keystroke Patterns as Prosody in Digital Writings: A Case Study with Deceptive Reviews and Essays
+7618,5,13,0.38461538461538464,Linguistic Cues to Deception and Perceived Deception in Interview Dialogues
+5246,5,13,0.38461538461538464,Identifying Locus of Control in Social Media Language
+6693,5,13,0.38461538461538464,Detecting Depression in Social Media using Fine-Grained Emotions
+7615,17,44,0.38636363636363635,Word Emotion Induction for Multiple Languages as a Deep Multi-Task Learning Problem
+56,17,44,0.38636363636363635,"Uncertainty over Uncertainty: Investigating the Assumptions, Annotations, and Text Measurements of Economic Policy Uncertainty"
+3507,19,49,0.3877551020408163,Latent Hatred: A Benchmark for Understanding Implicit Hate Speech
+11380,7,18,0.3888888888888889,Exploring Author Context for Detecting Intended vs Perceived Sarcasm
+13471,7,18,0.3888888888888889,Normalising Medical Concepts in Social Media Texts by Learning Semantic Representation
+11779,9,23,0.391304347826087,On Positivity Bias in Negative Reviews
+10224,9,23,0.391304347826087,What social attitudes about gender does BERT encode? Leveraging insights from psycholinguistics
+4754,9,23,0.391304347826087,We Can Detect Your Bias: Predicting the Political Ideology of News Articles
+13523,20,51,0.39215686274509803,Inferring Perceived Demographics from User Emotional Tone and User-Environment Emotional Contrast
+8772,11,28,0.39285714285714285,Scientific Discourse Tagging for Evidence Extraction
+2473,13,33,0.3939393939393939,Social Media Text Classification under Negative Covariate Shift
+6974,13,33,0.3939393939393939,Modeling the Severity of Complaints in Social Media
+8779,19,48,0.3958333333333333,"""Are you kidding me?"": Detecting Unpalatable Questions on Reddit"
+83,8,20,0.4,User profiling with geo-located posts and demographic data
+26,14,35,0.4,Ideological Phrase Indicators for Classification of Political Discourse Framing on Twitter
+10487,12,30,0.4,Logic-driven Indirect Supervision: An Application to Crisis Counseling
+13407,8,20,0.4,"Document-level Sentiment Inference with Social, Faction, and Discourse Context"
+1260,8,20,0.4,Incorporating Worker Perspectives into MTurk Annotation Practices for NLP
+2497,10,25,0.4,That’s So Annoying!!!: A Lexical and Frame-Semantic Embedding Based Data Augmentation Approach to Automatic Categorization of Annoying Behaviors using #petpeeve Tweets
+8749,8,20,0.4,I Beg to Differ: A study of constructive disagreement in online conversations
+1922,9,22,0.4090909090909091,Text Embeddings Reveal (Almost) As Much As Text
+15,9,22,0.4090909090909091,Understanding Interpersonal Conflict Types and their Impact on Perception Classification
+8748,9,22,0.4090909090909091,"A New View of Multi-modal Language Analysis: Audio and Video Features as Text ""Styles"""
+9826,18,44,0.4090909090909091,Your spouse needs professional help: Determining the Contextual Appropriateness of Messages through Modeling Social Relationships
+10337,16,39,0.41025641025641024,Towards Identifying Fine-Grained Depression Symptoms from Memes
+3508,14,34,0.4117647058823529,Idiosyncratic but not Arbitrary: Learning Idiolects in Online Registers Reveals Distinctive yet Consistent Individual Styles
+14,7,17,0.4117647058823529,Conditional Language Models for Community-Level Linguistic Variation
+12156,12,29,0.41379310344827586,Early Detection of Sexual Predators in Chats
+4288,17,41,0.4146341463414634,Identifying Morality Frames in Political Tweets using Relational Learning
+8780,22,53,0.41509433962264153,Challenges in Automated Debiasing for Toxic Language Detection
+13103,5,12,0.4166666666666667,Let Me Choose: From Verbal Context to Font Selection
+5406,5,12,0.4166666666666667,WikiConv: A Corpus of the Complete Conversational History of a Large Online Collaborative Community
+1952,15,36,0.4166666666666667,A Deeper (Autoregressive) Approach to Non-Convergent Discourse Parsing
+8757,10,24,0.4166666666666667,From the Stage to the Audience: Propaganda on Reddit
+4400,13,31,0.41935483870967744,Social Chemistry 101: Learning to Reason about Social and Moral Norms
+32,13,31,0.41935483870967744,When does a Compliment become Sexist? Analysis and Classification of Ambivalent Sexism using Twitter Data
+316,11,26,0.4230769230769231,Tracing Semantic Variation in Slang
+9220,23,54,0.42592592592592593,Misinfo Reaction Frames: Reasoning about Readers' Reactions to News Headlines
+1011,26,61,0.4262295081967213,Dictionary-Assisted Supervised Contrastive Learning
+23,6,14,0.42857142857142855,Non-lexical Features Encode Political Affiliation on Twitter
+4939,3,7,0.42857142857142855,Neural Conversational QA: Learning to Reason vs Exploiting Patterns
+1642,15,35,0.42857142857142855,RoBoCoP: A Comprehensive ROmance BOrrowing COgnate Package and Benchmark for Multilingual Cognate Identification
+7536,12,28,0.42857142857142855,Exploring the Role of Prior Beliefs for Argument Persuasion
+10394,9,21,0.42857142857142855,Dating Greek Papyri with Text Regression
+13474,3,7,0.42857142857142855,Understanding Discourse on Work and Job-Related Well-Being in Public Social Media
+567,6,14,0.42857142857142855,How to disagree well: Investigating the dispute tactics used on Wikipedia
+8338,19,44,0.4318181818181818,Lessons Learned from a Citizen Science Project for Natural Language Processing
+9216,16,37,0.43243243243243246,From Stance to Concern: Adaptation of Propositional Analysis to New Tasks and Domains
+10681,13,30,0.43333333333333335,DisorBERT: A Double Domain Adaptation Model for Detecting Signs of Mental Disorders in Social Media
+997,13,30,0.43333333333333335,Sentence-level Media Bias Analysis Informed by Discourse Structures
+10897,10,23,0.43478260869565216,Who caught a cold ? - Identifying the subject of a symptom
+4970,10,23,0.43478260869565216,Weakly Supervised Learning of Nuanced Frames for Analyzing Polarization in News Media
+472,10,23,0.43478260869565216,D4: a Chinese Dialogue Dataset for Depression-Diagnosis-Oriented Chat
+10979,17,39,0.4358974358974359,Beyond Binary Labels: Political Ideology Prediction of Twitter Users
+34,17,39,0.4358974358974359,Personality Driven Differences in Paraphrase Preference
+2820,7,16,0.4375,Topic-Based Agreement and Disagreement in US Electoral Manifestos
+9214,18,41,0.43902439024390244,Listening to Affected Communities to Define Extreme Speech: Dataset and Experiments
+11900,15,34,0.4411764705882353,Automated Generation of Storytelling Vocabulary from Photographs for use in AAC
+12649,15,34,0.4411764705882353,What Was Written vs. Who Read It: News Media Profiling Using Text Analysis and Social Media Context
+208,12,27,0.4444444444444444,Exploiting Social Relations and Sentiment for Stock Prediction
+11777,4,9,0.4444444444444444,Breaking Down the Invisible Wall of Informal Fallacies in Online Discussions
+6027,8,18,0.4444444444444444,ScAN: Suicide Attempt and Ideation Events Dataset
+12693,8,18,0.4444444444444444,Neural Temporal Opinion Modelling for Opinion Prediction on Twitter
+48,17,38,0.4473684210526316,Identifying Worry in Twitter: Beyond Emotion Analysis
+40,17,38,0.4473684210526316,"Stance Classification, Outcome Prediction, and Impact Assessment: NLP Tasks for Studying Group Decision-Making"
+9228,13,29,0.4482758620689655,Reports of personal experiences and stories in argumentation: datasets and analysis
+10820,9,20,0.45,Detecting Deceptive Groups Using Conversations and Network Analysis
+4955,9,20,0.45,Keeping Up Appearances: Computational Modeling of Face Acts in Persuasion Oriented Discussions
+1123,18,40,0.45,Directions for NLP Practices Applied to Online Hate Speech Detection
+2015,14,31,0.45161290322580644,e-THERAPIST: I suggest you to cultivate a mindset of positivity and nurture uplifting thoughts
+9560,19,42,0.4523809523809524,Identifying Moments of Change from Longitudinal User Text
+18,24,53,0.4528301886792453,Improving the Generalizability of Text-Based Emotion Detection by Leveraging Transformers with Psycholinguistic Features
+9229,29,64,0.453125,Inducing Positive Perspectives with Text Reframing
+2324,5,11,0.45454545454545453,Experiments in Open Domain Deception Detection
+47,5,11,0.45454545454545453,"Text Zoning and Classification for Job Advertisements in German, French and English"
+3812,16,35,0.45714285714285713,Constructing a Psychometric Testbed for Fair Natural Language Processing
+5572,11,24,0.4583333333333333,Why Swear? Analyzing and Inferring the Intentions of Vulgar Expressions
+6980,11,24,0.4583333333333333,WikiTalkEdit: A Dataset for modeling Editors' behaviors on Wikipedia
+480,23,50,0.46,Whose Language Counts as High Quality? Measuring Language Ideologies in Text Data Selection
+25,12,26,0.46153846153846156,How Does Twitter User Behavior Vary Across Demographic Groups?
+11771,13,28,0.4642857142857143,Measuring Conversational Uptake: A Case Study on Student-Teacher Interactions
+5495,7,15,0.4666666666666667,Identifying the sentiment styles of YouTube’s vloggers
+8687,23,49,0.46938775510204084,Argument Strength is in the Eye of the Beholder: Audience Effects in Persuasion
+3490,8,17,0.47058823529411764,Investigating Sports Commentator Bias within a Large Corpus of American Football Broadcasts
+3509,32,68,0.47058823529411764,Narrative Theory for Computational Narrative Understanding
+59,8,17,0.47058823529411764,Emoji and Self-Identity in Twitter Bios
+13479,9,19,0.47368421052631576,Harnessing Cognitive Features for Sarcasm Detection
+4080,19,40,0.475,ValNorm Quantifies Semantics to Reveal Consistent Valence Biases Across Languages and Over Centuries
+11346,11,23,0.4782608695652174,#YouToo? Detection of Personal Recollections of Sexual Harassment on Social Media
+6119,22,46,0.4782608695652174,A Shoulder to Cry on: Towards A Motivational Virtual Assistant for Assuaging Mental Agony
+1,14,29,0.4827586206896552,Linguistic Elements of Engaging Customer Service Discourse on Social Media
+1893,30,62,0.4838709677419355,FedTherapist: Mental Health Monitoring with User-Generated Linguistic Expressions on Smartphones via Federated Learning
+7204,16,33,0.48484848484848486,Emotion-Infused Models for Explainable Psychological Stress Detection
+9827,17,35,0.4857142857142857,"Conflicts, Villains, Resolutions: Towards models of Narrative Media Framing"
+12990,18,37,0.4864864864864865,Predicting the Growth of Morphological Families from Social and Linguistic Factors
+1084,27,55,0.4909090909090909,Textless Speech Emotion Conversion using Discrete & Decomposed Representations
+563,37,75,0.49333333333333335,Neural Theory-of-Mind? On the Limits of Social Intelligence in Large LMs
+2219,6,12,0.5,Modeling Tweet Arrival Times using Log-Gaussian Cox Processes
+11786,23,46,0.5,Structurizing Misinformation Stories via Rationalizing Fact-Checks
+6374,10,20,0.5,TopicCheck: Interactive Alignment for Assessing Topic Model Stability
+5918,18,36,0.5,A Holistic Framework for Analyzing the COVID-19 Vaccine Debate
+11378,12,24,0.5,Who Sides with Whom? Towards Computational Construction of Discourse Networks for Political Debates
+301,7,14,0.5,Self-disclosure topic model for classifying and analyzing Twitter conversations
+8752,13,26,0.5,"What Sounds ""Right"" to Me? Experiential Factors in the Perception of Political Ideology"
+8762,14,28,0.5,A Few Topical Tweets are Enough for Effective User Stance Detection
+6497,2,4,0.5,Recognizing Social Constructs from Textual Conversation
+9171,7,14,0.5,Political Ideology Detection Using Recursive Neural Networks
+8766,12,24,0.5,Mode Effects' Challenge to Authorship Attribution
+3392,19,38,0.5,The Role of Pragmatic and Discourse Context in Determining Argument Impact
+3297,9,18,0.5,Text-based inference of moral sentiment change
+57,7,14,0.5,Analyzing Gender Bias within Narrative Tropes
+12391,12,24,0.5,Predicting the Topical Stance and Political Leaning of Media using Tweets
+70,6,12,0.5,Learning Linguistic Descriptors of User Roles in Online Communities
+10513,14,28,0.5,A Simple and Flexible Modeling for Mental Disorder Detection by Learning from Clinical Questionnaires
+42,6,12,0.5,Neural Network Prediction of Censorable Language
+76,4,8,0.5,The Effects of Data Collection Methods in Twitter
+5169,7,14,0.5,Exploring Optimism and Pessimism in Twitter Using Deep Learning
+2667,18,35,0.5142857142857142,Asking too much? The rhetorical role of questions in political discourse
+3511,15,29,0.5172413793103449,(Mis)alignment Between Stance Expressed in Social Media Data and Public Opinion Surveys
+7321,14,27,0.5185185185185185,Identifying Medical Self-Disclosure in Online Communities
+43,12,23,0.5217391304347826,Not My President: How Names and Titles Frame Political Figures
+5248,12,23,0.5217391304347826,Fine-Grained Emotion Detection in Health-Related Online Posts
+6972,12,23,0.5217391304347826,Profiling of Intertextuality in Latin Literature Using Word Embeddings
+9224,23,44,0.5227272727272727,Classification without (Proper) Representation: Political Heterogeneity in Social Media and Its Implications for Classification and Behavioral Analysis
+13244,22,42,0.5238095238095238,Conversations Gone Awry: Detecting Early Signs of Conversational Failure
+13186,10,19,0.5263157894736842,Classification of Moral Foundations in Microblog Political Discourse
+9227,10,19,0.5263157894736842,Improving the Generalizability of Depression Detection by Leveraging Clinical Questionnaires
+55,10,19,0.5263157894736842,Recalibrating classifiers for interpretable abusive content detection
+53,9,17,0.5294117647058824,Is Wikipedia succeeding in reducing gender bias? Assessing changes in gender bias in Wikipedia using word embeddings
+4775,17,32,0.53125,A Computational Approach to Understanding Empathy Expressed in Text-Based Mental Health Support
+8755,17,32,0.53125,An Expert Annotated Dataset for the Detection of Online Misogyny
+11350,8,15,0.5333333333333333,Predicting Human Activities from User-Generated Content
+1261,8,15,0.5333333333333333,Predict the Future from the Past? On the Temporal Data Distribution Shift in Financial Sentiment Classifications
+20,8,15,0.5333333333333333,Understanding Narratives from Demographic Survey Data: a Comparative Study with Multiple Neural Topic Models
+2199,13,24,0.5416666666666666,Open Extraction of Fine-Grained Political Statements
+10026,19,35,0.5428571428571428,Helping a Friend or Supporting a Cause? Disentangling Active and Passive Cosponsorship in the U.S. Congress
+2553,12,22,0.5454545454545454,"Magnets for Sarcasm: Making Sarcasm Detection Timely, Contextual and Very Personal"
+2385,6,11,0.5454545454545454,Adapting Phrase-based Machine Translation to Normalise Medical Terms in Social Media Messages
+37,6,11,0.5454545454545454,Simple dynamic word embeddings for mapping perceptions in the public sphere
+2121,6,11,0.5454545454545454,ClimateBERT-NetZero: Detecting and Assessing Net Zero and Reduction Targets
+9825,23,42,0.5476190476190477,Understanding Client Reactions in Online Mental Health Counseling
+9994,11,20,0.55,StoryARG: a corpus of narratives and personal experiences in argumentative texts
+85,11,20,0.55,Relating semantic similarity and semantic association to how humans label other people
+11768,15,27,0.5555555555555556,Align Voting Behavior with Public Statements for Legislator Representation Learning
+6495,5,9,0.5555555555555556,"#WhyIStayed, #WhyILeft: Microblogging to Make Sense of Domestic Abuse"
+1150,15,27,0.5555555555555556,Quantifying Character Similarity with Vision Transformers
+1152,14,25,0.56,MingOfficial: A Ming Official Career Dataset and a Historical Context-Aware Representation Learning Framework
+13572,9,16,0.5625,Evaluating Sentiment Analysis in the Context of Securities Trading
+1155,18,32,0.5625,Multilingual estimation of political-party positioning: From label aggregation to long-input Transformers
+10983,9,16,0.5625,"Friendships, Rivalries, and Trysts: Characterizing Relations between Ideas in Texts"
+2144,17,30,0.5666666666666667,Semantic Similarity Models for Depression Severity Estimation
+10517,21,37,0.5675675675675675,PAL to Lend a Helping Hand: Towards Building an Emotion Adaptive Polite and Empathetic Counseling Conversational Agent
+8775,12,21,0.5714285714285714,From Toxicity in Online Comments to Incivility in American News: Proceed with Caution
+7694,4,7,0.5714285714285714,Psycholinguistic Features for Deceptive Role Detection in Werewolf
+245,4,7,0.5714285714285714,Staying on Topic: An Indicator of Power in Political Debates
+11772,47,82,0.573170731707317,A Survey of Code-switching: Linguistic and Social Perspectives for Language Technologies
+10673,22,38,0.5789473684210527,From Dogwhistles to Bullhorns: Unveiling Coded Rhetoric with Language Models
+317,14,24,0.5833333333333334,Gendered Mental Health Stigma in Masked Language Models
+10121,14,24,0.5833333333333334,An Ordinal Latent Variable Model of Conflict Intensity
+10993,17,29,0.5862068965517241,A Multidimensional Lexicon for Interpersonal Stancetaking
+4293,10,17,0.5882352941176471,SWEAT: Scoring Polarization of Topics across Different Corpora
+10896,10,17,0.5882352941176471,Linguistic Harbingers of Betrayal: A Case Study on an Online Strategy Game
+8686,12,20,0.6,A Societal Sentiment Analysis: Predicting the Values and Ethics of Individuals by Analysing Social Media Content
+11,6,10,0.6,"Who is GPT-3? An Exploration of Personality, Values and Demographics"
+38,9,15,0.6,Modeling Behavioral Aspects of Social Media Discourse for Moral Classification
+8089,3,5,0.6,Mapping Dialectal Variation by Querying Social Media
+2750,9,15,0.6,Connotation Frames of Power and Agency in Modern Films
+33,6,10,0.6,community2vec: Vector representations of online communities encode semantic relationships
+10217,15,25,0.6,"Trillion Dollar Words: A New Financial Dataset, Task & Market Analysis"
+2500,9,15,0.6,An Analysis of Domestic Abuse Discourse on Reddit
+9520,35,58,0.603448275862069,Automatic Identification and Classification of Bragging in Social Media
+6979,17,28,0.6071428571428571,Automatic Classification of Neutralization Techniques in the Narrative of Climate Change Scepticism
+4461,14,23,0.6086956521739131,Social Media Attributions in the Context of Water Crisis
+12694,14,23,0.6086956521739131,"It Takes Two to Lie: One to Lie, and One to Listen"
+68,11,18,0.6111111111111112,Does Social Support Expressed in Post Titles Elicit Comments in Online Substance Use Recovery Forums?
+44,19,31,0.6129032258064516,"Identification, Interpretability, and Bayesian Word Embeddings"
+8866,24,39,0.6153846153846154,Clinical Outcome Prediction from Admission Notes using Self-Supervised Knowledge Integration
+2430,8,13,0.6153846153846154,Talking to the crowd: What do people react to in online discussions?
+1143,24,39,0.6153846153846154,Sociocultural Norm Similarities and Differences via Situational Alignment and Explainable Textual Entailment
+6528,16,26,0.6153846153846154,Echoes of Persuasion: The Effect of Euphony in Persuasive Communication
+11766,23,37,0.6216216216216216,Understanding and Countering Stereotypes: A Computational Approach to the Stereotype Content Model
+10868,10,16,0.625,Topic Modeling based Sentiment Analysis on Social Media for Stock Market Prediction
+10370,20,32,0.625,Ideology Prediction from Scarce and Biased Supervision: Learn to Disregard the “What” and Focus on the “How”!
+6,10,16,0.625,An Analysis of Acknowledgments in NLP Conference Proceedings
+10209,17,27,0.6296296296296297,Are Fairy Tales Fair? Analyzing Gender Bias in Temporal Narrative Event Chains of Children’s Fairy Tales
+69,17,27,0.6296296296296297,Swimming with the Tide? Positional Claim Detection across Political Text Types
+8782,29,46,0.6304347826086957,Gender and Racial Fairness in Depression Research using Social Media
+5494,12,19,0.631578947368421,Framing and Agenda-setting in Russian News: a Computational Analysis of Intricate Political Strategies
+3006,24,38,0.631578947368421,Latent Suicide Risk Detection on Microblog via Suicide-Oriented Word Embeddings and Layered Attention
+1859,69,109,0.6330275229357798,An Integrative Survey on Mental Health Conversational Agents to Bridge Computer Science and Medical Perspectives
+79,7,11,0.6363636363636364,Constructing an Annotated Corpus for Protest Event Mining
+279,9,14,0.6428571428571429,Detecting Latent Ideology in Expert Text: Evidence From Academic Papers in Economics
+66,11,17,0.6470588235294118,Measuring Linguistic Diversity During COVID-19
+1163,11,17,0.6470588235294118,From Values to Opinions: Predicting Human Behaviors and Stances Using Value-Injected Large Language Models
+5716,11,17,0.6470588235294118,Identifying Dogmatism in Social Media: Signals and Models
+10567,11,17,0.6470588235294118,Language of Bargaining
+5,11,17,0.6470588235294118,Extracting Associations of Intersectional Identities with Discourse about Institution from Nigeria
+1157,28,43,0.6511627906976745,Reformulating NLP tasks to Capture Longitudinal Manifestation of Language Disorders in People with Dementia
+5107,15,23,0.6521739130434783,Detecting Gang-Involved Escalation on Social Media Using Context
+5489,8,12,0.6666666666666666,Multi-view Models for Political Ideology Detection of News Articles
+5568,24,36,0.6666666666666666,Making “fetch” happen: The influence of social and linguistic context on nonstandard word growth and decline
+82,20,30,0.6666666666666666,#WhoAmI in 160 Characters? Classifying Social Identities Based on Twitter Profile Descriptions
+209,17,25,0.68,Developing Age and Gender Predictive Lexica over Social Media
+8746,43,63,0.6825396825396826,"Us vs. Them: A Dataset of Populist Attitudes, News Bias and Emotions"
+58,13,19,0.6842105263157895,Understanding Weekly COVID-19 Concerns through Dynamic Content-Specific LDA Topic Modeling
+12093,26,38,0.6842105263157895,Learning Language and Multimodal Privacy-Preserving Markers of Mood from Mobile Data
+7907,9,13,0.6923076923076923,Dead or Murdered? Predicting Responsibility Perception in Femicide News Reports
+5106,43,62,0.6935483870967742,It’s going to be okay: Measuring Access to Support in Online Communities
+4778,34,49,0.6938775510204082,Quantifying Intimacy in Language
+11042,16,23,0.6956521739130435,Understanding and Predicting Empathic Behavior in Counseling Therapy
+4549,19,27,0.7037037037037037,Suicidal Risk Detection for Military Personnel
+12813,19,27,0.7037037037037037,Hierarchical Modeling for User Personality Prediction: The Role of Message-Level Attention
+4969,46,65,0.7076923076923077,A Time-Aware Transformer Based Model for Suicide Ideation Detection on Social Media
+9215,17,24,0.7083333333333334,Measuring the Language of Self-Disclosure across Corpora
+8740,61,86,0.7093023255813954,PHASE: Learning Emotional Phase-aware Representations for Suicide Ideation Detection on Social Media
+80,10,14,0.7142857142857143,Disentangling Topic Models: A Cross-cultural Analysis of Personal Values through Words
+4397,31,43,0.7209302325581395,Condolence and Empathy in Online Communities
+11770,21,29,0.7241379310344828,Changes in European Solidarity Before and During COVID-19: Evidence from a Large Crowd-and Expert-Annotated Twitter Dataset
+6981,70,96,0.7291666666666666,Suicide Ideation Detection via Social and Temporal User Representations using Hyperbolic Learning
+11194,30,41,0.7317073170731707,Finding Your Voice: The Linguistic Development of Mental Health Counselors
+1161,25,34,0.7352941176470589,A Digital Language Coherence Marker for Monitoring Dementia
+67,25,34,0.7352941176470589,Using BERT for Qualitative Content Analysis in Psycho-Social Online Counseling
+35,26,35,0.7428571428571429,Uphill from here: Sentiment patterns in videos from left-and right-wing YouTube news channels
+87,3,4,0.75,Social Proof: The Impact of Author Traits on Influence Detection
+5876,15,20,0.75,The Effects of the Content of FOMC Communications on US Treasury Rates
+64,6,8,0.75,"Assessing population-level symptoms of anxiety, depression, and suicide risk in real time using NLP applied to social media data"
+22,6,8,0.75,Modelling Participation in Small Group Social Sequences with Markov Rewards Analysis
+1419,22,29,0.7586206896551724,COVID-19 Vaccine Misinformation in Middle Income Countries
+41,19,25,0.76,Modeling performance differences on cognitive tests using LSTMs and skip-thought vectors trained on reported media consumption
+10,19,25,0.76,Professional Presentation and Projected Power: A Case Study of Implicit Gender Information in English CVs
+3210,13,17,0.7647058823529411,TalkDown: A Corpus for Condescension Detection in Context
+10894,13,17,0.7647058823529411,A Frame of Mind: Using Statistical Models for Detection of Framing and Agenda Setting Campaigns
+60,10,13,0.7692307692307693,Social media data as a lens onto care-seeking behavior among women veterans of the US armed forces
+77,17,22,0.7727272727272727,Expressions of Anxiety in Political Texts
+5800,24,31,0.7741935483870968,Personalized Emphasis Framing for Persuasive Message Generation
+36,7,9,0.7777777777777778,A Sociolinguistic Study of Online Echo Chambers on Twitter
+16,7,9,0.7777777777777778,Conspiracy Narratives in the Protest Movement Against COVID-19 Restrictions in Germany. A Long-term Content Analysis of Telegram Chat Groups
+13526,11,14,0.7857142857142857,Discovery of Treatments from Text Corpora
+13425,22,28,0.7857142857142857,Investigating the Sources of Linguistic Alignment in Conversation
+1165,30,38,0.7894736842105263,Toward a Critical Toponymy Framework for Named Entity Recognition: A Case Study of Airbnb in New York City
+6976,42,53,0.7924528301886793,Modeling Framing in Immigration Discourse on Social Media
+2744,23,29,0.7931034482758621,Multi-View Unsupervised User Feature Embedding for Social Media-based Substance Use Prediction
+54,31,39,0.7948717948717948,
+5756,8,10,0.8,The Gun Violence Database: A new task and data set for NLP
+50,25,31,0.8064516129032258,Foreigner-directed speech is simpler than native-directed: Evidence from social media
+8723,26,32,0.8125,Predicting Counselor Behaviors in Motivational Interviewing Encounters
+10967,13,16,0.8125,Alignment at Work: Using Language to Distinguish the Internalization and Self-Regulation Components of Cultural Fit in Organizations
+6977,32,39,0.8205128205128205,The structure of online social networks modulates the rate of lexical change
+8745,19,23,0.8260869565217391,Open-Mindedness and Style Coordination in Argumentative Discussions
+5869,10,12,0.8333333333333334,Using Syntactic and Semantic Context to Explore Psychodemographic Differences in Self-reference
+11193,20,24,0.8333333333333334,What Makes a Good Counselor? Learning to Distinguish between High-quality and Low-quality Counseling Conversations
+8754,17,20,0.85,Why Is MBTI Personality Detection from Texts a Difficult Task?
+406,66,77,0.8571428571428571,Affective Idiosyncratic Responses to Music
+11064,19,22,0.8636363636363636,Linguistic analysis of differences in portrayal of movie characters
+74,7,8,0.875,News Sentiment and Cross-Country Fluctuations *
+6846,28,32,0.875,Analyzing Polarization in Social Media: Method and Application to Tweets on 21 Mass Shootings
+1160,23,26,0.8846153846153846,"Cross-Cultural Analysis of Human Values, Morals, and Biases in Folk Tales"
+10191,23,26,0.8846153846153846,Forgotten Knowledge: Examining the Citational Amnesia in NLP
+84,8,9,0.8888888888888888,Generating Politically-Relevant Event Data
+39,16,18,0.8888888888888888,Using time series and natural language processing to identify viral moments in the 2016 U.S. Presidential Debate
+4287,54,60,0.9,Using Sociolinguistic Variables to Reveal Changing Attitudes Towards Sexuality and Gender
+6973,18,20,0.9,Self Promotion in US Congressional Tweets
+2200,34,36,0.9444444444444444,Using Personal Traits For Brand Preference Prediction

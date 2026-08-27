@@ -1,0 +1,11 @@
+python3 data_utils/db_creation/0_create_article_table.py
+python3 data_utils/db_creation/1_add_supervision.py
+python3 data_utils/db_creation/2_create_prediction_table.py
+python3 data_utils/db_creation/3_create_citation_table.py
+python3 data_utils/db_creation/4_create_fos_col.py
+python3 data_utils/db_creation/5_improve_fos_hand_tagged_journals.py
+python3 data_utils/db_creation/6_improve_fos_venue_match.py
+python3 data_utils/db_creation/7_improve_fos_string_match.py
+python3 data_utils/db_creation/8_create_ss_col.py
+python3 data_utils/db_creation/9_create_section_col.py
+python3 data_utils/db_creation/10_create_article_text_table.py

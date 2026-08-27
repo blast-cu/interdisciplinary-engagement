@@ -1,0 +1,10 @@
+python3 scripts/clean_db_text.py
+python3 scripts/db_creation/3_create_citation_table.py
+python3 scripts/db_creation/4_create_fos_col.py
+python3 scripts/db_creation/5_improve_fos_hand_tagged_journals.py
+python3 scripts/db_creation/6_improve_fos_venue_match.py
+python3 scripts/db_creation/7_improve_fos_string_match.py
+python3 scripts/db_creation/8_create_ss_col.py
+python3 scripts/db_update/update_citations.py
+python3 scripts/db_creation/10_create_article_text_table.py
+python3 scripts/hand_anns/match_ids.py
