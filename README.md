@@ -8,6 +8,8 @@ With the rising popularity of interdisciplinary work and increasing institutiona
 
 ## Data
 
+Data can be found [here](https://o365coloradoedu-my.sharepoint.com/:f:/g/personal/basu9216_colorado_edu/IgDqB_VZqpgYQZMZwaVhYDHRARoKgFyWm51I-lugihyno5E?e=wWmYER).
+
 ## Code Structure 
 - `data_utils`
     - `collection`: scripts for scraping pdfs and parsing abstracts from ACL anthology
